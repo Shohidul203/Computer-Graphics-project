@@ -1,3 +1,3 @@
 # Computer-Graphics-projects
-# A two player game using C++ Opengl 
+# A two player game using C++ with Opengl 
 
